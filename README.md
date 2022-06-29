@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/43696451/176355930-15ad08e6-e963-4714-ae95-79c74147d91d.png)
 
-Problem Statement:
+# Problem Statement:
 Travelling through flights has become an integral part of today’s lifestyle as more and
 more people are opting for faster travelling options. The flight ticket prices increase or
 decrease every now and then depending on various factors like timing of the flights,
@@ -13,5 +13,5 @@ The main goal is to predict the fares of the flights based on different factors 
 the provided dataset.
 
 
-Deployed Link:
+# Deployed Link:
 https://flightpriceayu.herokuapp.com/predict
